@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ash">#B2BEB5</color>
+    <color name="dark_ash">#353534</color>
+    <color name="red">#e23</color>
+    <color name="blue">#EBF4FA</color>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="mintcream">#F5FFFA</color>
+    <color name="blush">#FFE6E8</color>
+    <color name="pearlwhite">#F8F6F0</color>
+    <color name="cotton">#F8F6F0</color>
+    <color name="goastwhite">#F8F8FF</color>
+    <color name="milkywhite">#FFFEFA</color>
+    <color name="deniumblue">#79BAEC</color>
+    <color name="ass">#666362</color>
+</resources>
